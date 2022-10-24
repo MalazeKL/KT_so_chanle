@@ -4,5 +4,5 @@ if num % 2 == 0:
 elif num % 2 == 1:
     print(num, " là số lẻ")
 else:
-    print(num, "không phải số tự nhiên")
+    print(num, " không phải số tự nhiên")
     
